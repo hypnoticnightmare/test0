@@ -14602,5 +14602,23 @@
             {"id":9196, "colors":["pink","silver"]}
         ], "criteria":null,
         "releaseDate":"2000"
+    },
+    {
+        "groupId":9077, "zone":"waistToKnee", "category":"skirt", "security":"24eb5e40a7adc78d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Skirt 'n' Skates",
+        "variations":[
+            {"id":9077, "colors":["green"]},
+            {"id":9078, "colors":["green"]},
+            {"id":9079, "colors":["blue"]},
+            {"id":9080, "colors":["red"]},
+            {"id":9081, "colors":["white"]},
+            {"id":9082, "colors":["pink"]},
+            {"id":9083, "colors":["yellow"]},
+            {"id":9084, "colors":["purple"]},
+            {"id":9085, "colors":["brown"]},
+            {"id":9086, "colors":["black"]}
+        ], "criteria":{"type":"calendar", "info":"2025-13", "text":"Desbloqueado en el calendario\nN°13 - 2025"},
+        "releaseDate":"2025-04-07"
     }
 ]
