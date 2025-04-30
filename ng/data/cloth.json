@@ -14728,5 +14728,24 @@
             {"id":9306, "colors":["blue"]}
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
         "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9307, "zone":"torso_waistToKnee", "category":"belts", "security":"a82bf99f00fa7272", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Train",  
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9307, "colors":["red"]},
+            {"id":9308, "colors":["grey", "silver"]},
+            {"id":9309, "colors":["white"]},
+            {"id":9310, "colors":["black"]},
+            {"id":9311, "colors":["yellow", "gold"]},
+            {"id":9312, "colors":["pink"]},
+            {"id":9313, "colors":["green"]},
+            {"id":9314, "colors":["purple"]},
+            {"id":9315, "colors":["blue"]},
+            {"id":9316, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
     }
+
 ]
