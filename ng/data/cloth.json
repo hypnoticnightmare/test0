@@ -14746,6 +14746,24 @@
             {"id":9316, "colors":["blue"]}
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
         "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9287, "zone":"waistToKnee", "category":"skirt", "security":"fe29569b143365a5", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Skirt",  
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9287, "colors":["red"]},
+            {"id":9288, "colors":["grey", "silver"]},
+            {"id":9289, "colors":["white"]},
+            {"id":9290, "colors":["black"]},
+            {"id":9291, "colors":["yellow", "gold"]},
+            {"id":9292, "colors":["pink"]},
+            {"id":9293, "colors":["green"]},
+            {"id":9294, "colors":["purple"]},
+            {"id":9295, "colors":["blue"]},
+            {"id":9296, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
     }
 
 ]
